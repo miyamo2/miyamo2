@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- Total Profile Viewer -->
+[![Profile Views](https://komarev.com/ghpvc/?username=miyamo2theppl)](https://komarev.com/ghpvc/?username=miyamo2theppl)
+<!-- Total Qiita Posts -->
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/miyamo2theppl/posts.svg)](http://qiita.com/miyamo2theppl)
+<!-- profile-summary-cards -->
+[![miyamo2theppl](https://raw.githubusercontent.com/miyamo2theppl/miyamo2theppl/main/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Top Languages by Repo](https://raw.githubusercontent.com/miyamo2theppl/miyamo2theppl/main/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![Top Languages by Commit](https://raw.githubusercontent.com/miyamo2theppl/miyamo2theppl/main/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Stars](https://raw.githubusercontent.com/miyamo2theppl/miyamo2theppl/main/profile-summary-card-output/github/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![Commits](https://raw.githubusercontent.com/miyamo2theppl/miyamo2theppl/main/profile-summary-card-output/github/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
