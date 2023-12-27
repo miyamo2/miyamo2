@@ -7,7 +7,7 @@
 
 I salute all open source and all its contributors.👍❤️
 
-### I'm interested in
+### I'm interested in...
 
 #### Languages
 
@@ -30,6 +30,8 @@ I salute all open source and all its contributors.👍❤️
 - Portability
 
 - Traceability
+
+- Observability
 
 <!-- profile-summary-cards -->
 [![miyamo2](https://raw.githubusercontent.com/miyamo2/miyamo2/main/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
