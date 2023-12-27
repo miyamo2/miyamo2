@@ -5,7 +5,7 @@
 <!-- Total Qiita Posts -->
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/miyamo2/posts.svg)](http://qiita.com/miyamo2)
 
-I salute all open source and all its contributors.🫡
+I salute all open source and all its contributors.👍❤️
 
 ### I'm interested in
 
