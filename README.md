@@ -7,32 +7,6 @@
 
 I salute all open source and all its contributors.👍❤️
 
-### I'm interested in...
-
-#### Languages
-
-- Golang
-
-- HCL
-
-- TypeScript
-
-#### Architecture
-
-- Micro Services
-
-- Domain Driven Design
-
-- Clean Architecture
-
-#### Others
-
-- Portability
-
-- Traceability
-
-- Observability
-
 <!--START_SECTION:lapras-card-->
 <p ><a href="https://lapras.com/public/YGMJIFE" target="_blank" rel="noopener noreferrer"><img alt="YGMJIFEのLAPRASでのスコアは次の通りです: エンジニアリング: 3.73 / 5.0, ビジネス: 3.48 / 5.0, インフルエンス: 3.25 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.73&b=3.48&i=3.25&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
 Last Updated on 2/6/2025, 12:08:29 AM</p>
