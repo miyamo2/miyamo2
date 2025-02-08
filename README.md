@@ -13,6 +13,6 @@ Last Updated on 2/8/2025, 12:08:20 AM</p>
 <!--END_SECTION:lapras-card-->
 
 <!-- profile-summary-cards -->
-[![miyamo2](https://raw.githubusercontent.com/miyamo2/miyamo2/main/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-[![Top Languages by Repo](https://raw.githubusercontent.com/miyamo2/miyamo2/main/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![Top Languages by Commit](https://raw.githubusercontent.com/miyamo2/miyamo2/main/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)[![Stars](https://raw.githubusercontent.com/miyamo2/miyamo2/main/profile-summary-card-output/github/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![miyamo2](https://raw.githubusercontent.com/miyamo2/miyamo2/main/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miyamo2&hide=html)
+![miyamo2's github stats](https://github-readme-stats.vercel.app/api?username=miyamo2&show_icons=true&count_private=true&line_height=40)
