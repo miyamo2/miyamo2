@@ -11,6 +11,8 @@ Last Updated on 2/22/2026, 12:13:13 AM</p>
 <!--END_SECTION:lapras-card-->
 
 <!-- profile-summary-cards -->
-[![miyamo2](https://raw.githubusercontent.com/miyamo2/miyamo2/main/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  
-![Top Langs](https://raw.githubusercontent.com/miyamo2/miyamo2/main/profile/top-langs.svg)
+[![miyamo2](https://raw.githubusercontent.com/miyamo2/miyamo2/main/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
 ![miyamo2's github stats](https://raw.githubusercontent.com/miyamo2/miyamo2/main/profile/stats.svg)
+
+![Top Langs](https://raw.githubusercontent.com/miyamo2/miyamo2/main/profile/top-langs.svg)
+
