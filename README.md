@@ -12,5 +12,5 @@ Last Updated on 2/22/2026, 12:13:13 AM</p>
 
 <!-- profile-summary-cards -->
 [![miyamo2](https://raw.githubusercontent.com/miyamo2/miyamo2/main/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miyamo2&hide=html)
-![miyamo2's github stats](https://github-readme-stats.vercel.app/api?username=miyamo2&show_icons=true&count_private=true&line_height=40)
+![Top Langs](https://raw.githubusercontent.com/miyamo2/miyamo2/main/profile/top-langs.svg)
+![miyamo2's github stats](https://raw.githubusercontent.com/miyamo2/miyamo2/main/profile/stats.svg)
